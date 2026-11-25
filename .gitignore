@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
+# Real child-health data must never be committed.
+data/
+*.csv
